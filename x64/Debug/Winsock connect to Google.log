@@ -1,0 +1,4 @@
+﻿  ClientConnect.cpp
+C:\Users\bhush\OneDrive\Desktop\VSIDE projects\Winsock connect to Google\ClientConnect.cpp(14,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\bhush\OneDrive\Desktop\VSIDE projects\Winsock connect to Google\ClientConnect.cpp(84,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Winsock connect to Google.vcxproj -> C:\Users\bhush\OneDrive\Desktop\VSIDE projects\Winsock connect to Google\x64\Debug\Winsock connect to Google.exe
